@@ -40,10 +40,10 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "bitcore-lib": "^0.16.0",
+    "bitcore-lib": "github:guardaco/bitcore-lib",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
-    "bitcore-lib": "^0.16.0"
+    "bitcore-lib": "github:guardaco/bitcore-lib"
   }
 }
